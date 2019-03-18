@@ -1,6 +1,11 @@
 # Algorithms
  **In this programs we develop and improve the use of sort algorithms. Seems like Binary Search, Insertion, Selection and Bubble Sorts.**
 
+## Binary Insertion
+* **BinaryInsertion.cs** - The program takes the data.csv database that contains information about each country. Through a Linq type query, the countries with density greater than 100 from a single continent are shown. The objective of the program is to show the total of Countries that pass the condition and information about it, such as Country Name, Density, Population and Area. 
+
+  ![Country](img/Country.PNG)
+
 ## Binary Sort
 * **BinarySort.cs** - The program takes the data.csv database that contains information about each country. Through a Linq type query, the countries with density greater than 100 from a single continent are shown. The objective of the program is to show the total of Countries that pass the condition and information about it, such as Country Name, Density, Population and Area. 
 
