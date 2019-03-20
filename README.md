@@ -48,7 +48,7 @@ public static int[] insertionSort(int[] tab){
         return tab;
    }
 ```
-**Result**
+* **Result**
 
   ![Country](img/Country.PNG)
 
@@ -86,7 +86,7 @@ public static int GuessTheNumber(int a, int b){
         return steps;
     }
 ```
-**Result**
+* **Result**
 
   ![Country](img/Country.PNG)
 
@@ -114,7 +114,7 @@ public static void insertionSort(int[] numbers)
         }
    } 
 ```
-**Result**
+* **Result**
 
   ![Country 2](img/Country2.PNG)
 
@@ -228,6 +228,6 @@ public static int[] BubleSort(int[] tab, bool display){
             return tab;
         }
 ```
-**Result**
+* **Result**
 
   ![Country 3](img/Country3.PNG)# Algorithms
