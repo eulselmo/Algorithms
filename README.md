@@ -49,6 +49,7 @@ public static int[] insertionSort(int[] tab){
    }
 ```
 **Result**
+
   ![Country](img/Country.PNG)
 
 ## Binary Sort
@@ -86,6 +87,7 @@ public static int GuessTheNumber(int a, int b){
     }
 ```
 **Result**
+
   ![Country](img/Country.PNG)
 
 ## Search Numbers with the Insertion Sort
@@ -113,6 +115,7 @@ public static void insertionSort(int[] numbers)
    } 
 ```
 **Result**
+
   ![Country 2](img/Country2.PNG)
 
 ## Insertion, Bubble and Selection Sorts
@@ -226,4 +229,5 @@ public static int[] BubleSort(int[] tab, bool display){
         }
 ```
 **Result**
+
   ![Country 3](img/Country3.PNG)# Algorithms
