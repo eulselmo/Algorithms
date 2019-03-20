@@ -242,3 +242,21 @@ public static int[] BubleSort(int[] tab, bool display){
   ![Sorts](Pictures/Sorts1.jpg)
 
   ![Sorts](Pictures/Sorts2.jpg)
+
+## Factorial
+* **Factorial.cs** - This program show how calculate a factorial number and have a complexity of O(n).
+
+```csharp
+public static int Factorial(int n){
+        int result = 1;
+        
+        for(int i = 1; i <= n; i++){
+            result = result * i; 
+        }
+        
+        return result;
+    }
+```
+* **Result**
+
+  ![Factorial](Pictures/Factorial.jpg)
