@@ -2,7 +2,7 @@
  **In this programs we develop and improve the use of sort algorithms. Seems like Binary Search, Insertion, Selection and Bubble Sorts.**
 
 ## Binary Insertion
-* **BinaryInsertion.cs** - The program takes the data.csv database that contains information about each country. Through a Linq type query, the countries with density greater than 100 from a single continent are shown. The objective of the program is to show the total of Countries that pass the condition and information about it, such as Country Name, Density, Population and Area. 
+* **BinaryInsertion.cs** - The program on the one hand, the insertion algorithm is responsible for taking the array and ordering it in its entirety, while the binary search takes the array and divides it little by little and tells you if the value you are looking for is in that range. 
 
 ```csharp
 public static int binarySearchTarget(int[] array, int targetValue) {
@@ -53,7 +53,7 @@ public static int[] insertionSort(int[] tab){
   ![BinaryInsertion](Pictures/BinaryInsertion.jpg)
 
 ## Binary Sort
-* **BinarySort.cs** - The program takes the data.csv database that contains information about each country. Through a Linq type query, the countries with density greater than 100 from a single continent are shown. The objective of the program is to show the total of Countries that pass the condition and information about it, such as Country Name, Density, Population and Area. 
+* **BinarySort.cs** - The program takes the array, generates a secret random number, goes dividing the matrix in half and looking at that number is in one of the intervals, finally shows the secret random number.
 
 ```csharp
 public static int GuessTheNumber(int a, int b){
@@ -91,7 +91,7 @@ public static int GuessTheNumber(int a, int b){
   ![BinarySort](Pictures/BinarySort.jpg)
 
 ## Search Numbers with the Insertion Sort
-* **SearchNumbers.cs** - This other program also gets the data.csv database. The program performs a Linq query to show the countries with the highest density of a continent. The program also shows the total of Countries that pass the condition, and information on Country Name, Density, Population and Area.
+* **SearchNumbers.cs** - This other program show you how works the insertion sort taking the numbers and inserting them in the correct position.
 
 ```csharp
 public static void insertionSort(int[] numbers)
