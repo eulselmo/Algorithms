@@ -53,7 +53,7 @@ public static int[] insertionSort(int[] tab){
   ![BinaryInsertion](Pictures/BinaryInsertion.jpg)
 
 ## Binary Sort
-* **BinarySort.cs** - The program takes the array, generates a secret random number, goes dividing the matrix in half and looking at that number is in one of the intervals, finally shows the secret random number.
+* **BinarySort.cs** - The program takes the array, generates a secret random number, goes dividing the array in half and looking at that number is in one of the intervals, finally shows the secret random number.
 
 ```csharp
 public static int GuessTheNumber(int a, int b){
