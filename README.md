@@ -50,7 +50,7 @@ public static int[] insertionSort(int[] tab){
 ```
 * **Result**
 
-  ![Country](img/Country.PNG)
+  ![BinaryInsertion](Pictures/BinaryInsertion.jpg)
 
 ## Binary Sort
 * **BinarySort.cs** - The program takes the data.csv database that contains information about each country. Through a Linq type query, the countries with density greater than 100 from a single continent are shown. The objective of the program is to show the total of Countries that pass the condition and information about it, such as Country Name, Density, Population and Area. 
@@ -88,7 +88,7 @@ public static int GuessTheNumber(int a, int b){
 ```
 * **Result**
 
-  ![Country](img/Country.PNG)
+  ![BinarySort](Pictures/BinarySort.jpg)
 
 ## Search Numbers with the Insertion Sort
 * **SearchNumbers.cs** - This other program also gets the data.csv database. The program performs a Linq query to show the countries with the highest density of a continent. The program also shows the total of Countries that pass the condition, and information on Country Name, Density, Population and Area.
@@ -116,7 +116,7 @@ public static void insertionSort(int[] numbers)
 ```
 * **Result**
 
-  ![Country 2](img/Country2.PNG)
+  ![SearchNumbers](Pictures/SearchNumbers.jpg)
 
 ## Insertion, Bubble and Selection Sorts
 * **Sorts.cs** - The last program takes the data.csv database. A Linq type query is carried out showing the countries with the highest density in a continent. This program shows the total of Countries that pass this condition, the total population in the world, and information such as Country Name, Density, Population and Area
@@ -230,4 +230,6 @@ public static int[] BubleSort(int[] tab, bool display){
 ```
 * **Result**
 
-  ![Country 3](img/Country3.PNG)# Algorithms
+  ![Sorts](Pictures/Sorts1.jpg)
+
+  ![Sorts](Pictures/Sorts2.jpg)
